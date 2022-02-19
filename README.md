@@ -1,2 +1,32 @@
 # LeetCodePractice
 Solutions to the question practiced on leetcode
+
+| S.No| Problem Name | Solution  |
+| ----|:-----------------------:| -----:|
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/blob/main/1.%20Two-Sum.cpp)
+| 7.  | Reverse Integer | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 8.  | String_to_Integer(atoi) | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 9.  | Palindrome_Number  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 2.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 3.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
+| 1.  | Two Sum  | [Link](https://github.com/anubhvshrma18/LeetCode-Solutions/)
